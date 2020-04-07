@@ -8168,11 +8168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visha\\source\\repos\\CoreApplication\\CoreApplication.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\Source\\Repos\\CoreApplication2\\CoreApplication.csproj",
       "projectName": "CoreApplication",
-      "projectPath": "C:\\Users\\visha\\source\\repos\\CoreApplication\\CoreApplication.csproj",
+      "projectPath": "C:\\Users\\visha\\Source\\Repos\\CoreApplication2\\CoreApplication.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\visha\\source\\repos\\CoreApplication\\obj\\",
+      "outputPath": "C:\\Users\\visha\\Source\\Repos\\CoreApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",
